@@ -1,6 +1,7 @@
 # Home Object Classification task - Machine Learning
 
 Machine Learning project on the implementation of a solution for the images classification task regarding objects in a home environment.
+
 Progetto del corso di Machine Learning sull'implementazione di una soluzione di un task sulla classificazione delle immagini relative agli oggetti in un ambiente domestico.
 
 ## Details
